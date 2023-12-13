@@ -1,0 +1,5 @@
+Factura de transporte
+Origen: A
+Destino: D
+Ruta: ['A', 'B', 'D']
+Costo del transporte: 12667

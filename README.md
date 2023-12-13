@@ -1,0 +1,3 @@
+# Ejercicio dijkstra
+
+## Una empresa requiere transportar X cantidad de peso por una ruta por definir entre dospuntos de acuerdo al grafo de la parte inferior, calcular el costo de transportar la cargaentre dos puntos si el km de recorrido es a $2.000 por cada 150 kg y los tramos entrecada NODO son en Km. Se debe generar una factura para el cliente, especificando el origen y destino, la ruta a seguir y el costo del transporte. 
